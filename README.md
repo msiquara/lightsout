@@ -1,2 +1,2 @@
 # lightsout
-# using C# and SDL2
+# using C and SDL2
